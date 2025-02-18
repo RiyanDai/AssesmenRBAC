@@ -35,6 +35,7 @@ class UserSeeder extends Seeder
             'role_id' => 3, // User role
             'manager_id' => $manager->id,
         ]);
+        
 
         User::create([
             'name' => 'Dewi',
@@ -45,3 +46,6 @@ class UserSeeder extends Seeder
         ]);
     }
 }
+
+
+//test
