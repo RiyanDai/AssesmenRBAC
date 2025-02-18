@@ -5,9 +5,8 @@ Sistem manajemen user dengan role-based access control, absensi, dan daily repor
 ## Fitur
 
 ### Role & Permissions
-- Admin: Akses penuh ke semua fitur
-- Manager: Akses terbatas ke user yang dimanage
-- User: Akses ke dashboard, absensi, dan daily report
+![image](https://github.com/user-attachments/assets/8cf5f820-3b5c-4f3a-a503-380d6498823a)
+
 
 ### User Management
 - CRUD Users
