@@ -44,5 +44,9 @@ Sistem manajemen user dengan role-based access control, absensi, dan daily repor
 ![image](https://github.com/user-attachments/assets/736f442b-fe4e-4a96-9e6f-d56e733768f3)
 
 ## ScreenShoot (Admin)
-![image](https://github.com/user-attachments/assets/c5eaba85-5023-4a20-9038-ea73c9dbb66f)
+![image](https://github.com/user-attachments/assets/d2aab6ac-a432-40c6-bc31-4c8852d36955)
+![image](https://github.com/user-attachments/assets/816da47f-8800-4984-a440-d6b136c051e0)
+![image](https://github.com/user-attachments/assets/0ea4c3c6-4f7e-40df-afd8-67a8f4a4a0a1)
+![image](https://github.com/user-attachments/assets/e3e7befa-33d6-4745-931a-0eaa293c6366)
+
 
