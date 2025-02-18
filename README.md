@@ -33,10 +33,16 @@ Sistem manajemen user dengan role-based access control, absensi, dan daily repor
 - Laravel Breeze (Authentication)
 - Tailwind CSS
 
-## Requirement
+## ScreenShoot (User)
+![image](https://github.com/user-attachments/assets/115b180c-dd22-4dd1-92f6-aa1a9f319652)
 
-- PHP >= 8.1
-- Composer
-- MySQL
-- Node.js & NPM
+## ScreenShoot (Manager)
+![image](https://github.com/user-attachments/assets/a11c417e-d9ac-4cf4-bef9-61ca5a97f19b)
+
+![image](https://github.com/user-attachments/assets/d046383f-af5a-4b01-a8cd-26b1c41437fa)
+
+![image](https://github.com/user-attachments/assets/736f442b-fe4e-4a96-9e6f-d56e733768f3)
+
+## ScreenShoot (Admin)
+![image](https://github.com/user-attachments/assets/c5eaba85-5023-4a20-9038-ea73c9dbb66f)
 
